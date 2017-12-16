@@ -1,2 +1,3 @@
-# TicTacToe game that I made
+# TicTacToe
+Basic TicTacToe game that I made
 Inspired by Almas Baimagambetov
